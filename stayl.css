@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(blue,purple);
+    min-height: 100vh;
+    margin: 0;
+}
+h1 {
+    text-align:center
+}
+ul {
+    background: linear-gradient(gold,rgb(255, 255, 255));
+    padding: 20px;
+    font-size: 30px;
+}
+a {
+    background: linear-gradient(green,blue);
+    padding: 10px;
+    margin: 0 auto;
+    display: table;
+    color: pink;
+    border-radius: 10px;
+    
+}
